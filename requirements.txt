@@ -1,0 +1,46 @@
+openai==1.5.0
+fastapi==0.75.0
+uvicorn==0.15.0
+numpy==1.22.3
+pandas==1.4.1
+matplotlib==3.5.1
+langchain==0.0.350
+langcodes==3.3.0
+seaborn==0.11.2
+SpeechRecognition==3.10.1
+langid==1.1.6
+pydub==0.25.1
+gTTS==2.4.0
+httpcore==1.0.2
+torch==2.1.0
+transformers==4.35.2
+python-multipart
+# googletrans==4.0.0rc1
+# httpx>=0.23.0,<1
+# httpx==0.13.0
+# Use a different version of googletrans or an alternative
+# Use a different version of openai if necessary
+
+
+
+
+
+
+# '''fastapi==0.75.0
+# uvicorn==0.15.0
+# numpy==1.22.3
+# pandas==1.4.1
+# matplotlib==3.5.1
+# langchain==0.0.350
+# langcodes==3.3.0
+# seaborn==0.11.2
+# SpeechRecognition==3.10.1
+# langid==1.1.6
+# pydub==0.25.1
+# googletrans==4.0.0rc1
+# gTTS==2.4.0
+# openai==1.4.0
+# httpcore==1.0.2
+# torch==2.1.0
+# transformers==4.35.2'''
+
